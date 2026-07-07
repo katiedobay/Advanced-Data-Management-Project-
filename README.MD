@@ -1,4 +1,4 @@
-# # Revenue Analysis by Film Category | PostgreSQL
+# Revenue Analysis by Film Category | PostgreSQL
 
 ## Overview
 
